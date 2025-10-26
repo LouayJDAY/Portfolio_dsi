@@ -78,7 +78,7 @@ export function Hero() {
               <div className="absolute -inset-4 bg-gradient-to-r from-blue-600 to-teal-500 rounded-full blur-2xl opacity-20"></div>
               <div className="relative rounded-full w-80 h-80 md:w-96 md:h-96 overflow-hidden shadow-2xl border-8 border-white bg-white">
                 <ImageWithFallback 
-                  src="public/images/Gemini_Generated_Image_1zve7f1zve7f1zve.png"
+                  src="/images/Gemini_Generated_Image_1zve7f1zve7f1zve.png"
                   alt="Louay - Développeur DSI"
                   className="w-full h-full object-cover object-center"
                 />
